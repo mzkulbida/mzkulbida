@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max (@mzkulbida)
-- (Robot Data Collection Project)[https://www.github.com/mzkulbida/Portfolio] 
+- [Robot Data Collection Project](https://www.github.com/mzkulbida/robot_data_collection) 
 
 <!---
 mzkulbida/mzkulbida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
