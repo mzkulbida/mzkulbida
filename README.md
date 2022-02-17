@@ -2,6 +2,7 @@
 
 ### Projects
 - [Robotic Data Collection](https://www.github.com/mzkulbida/robotic_data_collection) 
+- [Mathy Wordle Game](https://github.com/mzkulbida/function_wordle_game)
 
 <!---
 mzkulbida/mzkulbida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
